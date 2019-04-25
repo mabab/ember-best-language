@@ -32,10 +32,9 @@
     "postpublish": "ember ts:clean"
   },
   "dependencies": {
-    "@ember-decorators/babel-transforms": "^5.1.4",
-    "ember-cli-babel": "^7.6.0",
+    "ember-cli-babel": "^7.7.3",
     "ember-cli-typescript": "^2.0.0",
-    "ember-decorators": "^5.1.4"
+    "ember-decorators": "^6.0.0"
   },
   "devDependencies": {
     "@ember/optional-features": "0.7.0",
